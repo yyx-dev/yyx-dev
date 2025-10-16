@@ -7,8 +7,8 @@
 
 ### ⚡ Technologies
 
-![Java](https://img.shields.io/badge/language-java-%23B07219) ![C++](https://img.shields.io/badge/language-c%2B%2B-%23F34B7D)
+![C++](https://img.shields.io/badge/language-c%2B%2B-%23F34B7D) ![Java](https://img.shields.io/badge/language-java-%23B07219)
 
 ![Git](https://img.shields.io/badge/Git-24292e?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github)
 
-![](https://github-readme-stats.vercel.app/api?username=yyx-dev) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yyx-dev)
+![](https://github-readme-stats.vercel.app/api?username=yyx-dev)
