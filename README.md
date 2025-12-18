@@ -7,7 +7,7 @@
 
 ### ⚡ Technologies
 
-![C](https://img.shields.io/badge/language-c-%23F34B7D) ![C++](https://img.shields.io/badge/language-c%2B%2B-%23F34B7D) ![Java](https://img.shields.io/badge/language-java-%23B07219) ![Rust](https://img.shields.io/badge/language-rust-%23909399) ![Vue](https://img.shields.io/badge/language-vue-%2340e9ff) 
+![C](https://img.shields.io/badge/language-c-%23F34B7D) ![C++](https://img.shields.io/badge/language-c%2B%2B-%23F34B7D) ![Java](https://img.shields.io/badge/language-java-%23B07219) ![Rust](https://img.shields.io/badge/language-rust-%23909399) ![Vue](https://img.shields.io/badge/language-vue-%23409eff) 
 
 ![Git](https://img.shields.io/badge/Git-24292e?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github)
 
