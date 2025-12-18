@@ -5,7 +5,7 @@
 - 🏡 Blog：<a href="https://yyx-dev.github.io/" target="_blank">yyx-dev-blog</a>
 - 💬 Mail：<a href="mailto://yyx_dev@qq.com" target="_blank">yyx_dev@qq.com</a>
 
-### ⚡ Technologies
+### Technologies
 
 ![C](https://img.shields.io/badge/language-c-%23F34B7D) ![C++](https://img.shields.io/badge/language-c%2B%2B-%23F34B7D) ![Java](https://img.shields.io/badge/language-java-%23B07219) ![Rust](https://img.shields.io/badge/language-rust-%23909399) ![Vue](https://img.shields.io/badge/language-vue-%23409eff) 
 
